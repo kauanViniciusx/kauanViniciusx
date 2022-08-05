@@ -1,0 +1,5 @@
+- # SOBRE MIM
+-  👋 Olá meu nome é @kauanViniciusx
+- 👀Meu email de contato é kauan.mariano.silva@escola.pr.gov.br
+- 🌱 Eu estou interessado em aprender a programar novas linguagens
+- 💞️ Eu estou aprendedendo a programar rescentemente a linguagem javaScript e Scratch
